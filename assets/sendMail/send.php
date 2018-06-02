@@ -7,9 +7,9 @@
  */
 
 
-$name = $_POST["name"];
-$mail = $_POST["mail"];
-$desc = $_POST["description"];
+$name = $_GET["name"];
+$mail = $_GET["mail"];
+$desc = $_GET["description"];
 
 //$aa = fopen("newfile7.txt","a");
 //$txt =" ----".$name."- ---$mail-------$desc-\n";

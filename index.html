@@ -363,7 +363,7 @@
         if (name != "" && mail != "" && description != "") {
             $.ajax({
                 url: "assets/sendMail/send.php",
-                type: "GET",
+                type: "post",
                 // dataType:"JSON",
                 data: {
                     'description': description,

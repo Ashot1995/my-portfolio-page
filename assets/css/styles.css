@@ -150,7 +150,7 @@ iframe {
 
 .header .profile-content .name {
     color: #49515a;
-    font-size: 38px;
+    font-size: 34px;
     margin-bottom: 5px;
     margin-top: 30px;
 }
@@ -487,7 +487,7 @@ iframe {
 
 .testimonials .item .source .name {
     color: #939ea9;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .testimonials .item .source .title {

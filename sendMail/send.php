@@ -16,7 +16,6 @@ $desc = $_POST["description"];
 //fwrite($aa,$txt);
 //fclose($aa);
 
-
 $to = 'ashotgharakeshishyan@gmail.com';
 $subject = $name;
 $message = $desc;

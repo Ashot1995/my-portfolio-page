@@ -366,16 +366,19 @@
         var description = $("#content").val();
         if (name != "" && mail != "" && description != "") {
             $.ajax({
-                url: "assets/sendMail/send.php",
+                url: "sendMail/send.php",
                 type: "post",
-                // dataType:"JSON",
+               dataType: "JSON",
                 data: {
                     'description': description,
                     'mail': mail,
                     'name': name
+
                 },
-                success: function () {
+
+                success: function() {
                     alert("Your message sent")
+
                 }
             });
         } else {

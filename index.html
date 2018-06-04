@@ -351,11 +351,13 @@
 <!-- Javascript -->
 <script>
     $("#contact").on("click", function () {
-        $("#send").css("display", "flex")
+        $("#send").css("display", "flex");
         $("#close").css('cursor', 'pointer');
 
+
+
         $("#close").click(function () {
-            $("#send").css("display", "none")
+            $("#send").css("display", "none");
         })
     })
 
@@ -368,17 +370,15 @@
             $.ajax({
                 url: "sendMail/send.php",
                 type: "post",
-               dataType: "JSON",
+                dataType: "JSON",
                 data: {
                     'description': description,
                     'mail': mail,
                     'name': name
 
                 },
-
-                success: function() {
-                    alert("Your message sent")
-
+                success: function () {
+                    alert("Your message sent");
                 }
             });
         } else {
@@ -388,9 +388,9 @@
         }
 
 
-    })
-
+    });
 </script>
+
 <script type="text/javascript" src="assets/plugins/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>

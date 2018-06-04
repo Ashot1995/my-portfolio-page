@@ -11,13 +11,15 @@ $name = $_POST["name"];
 $mail = $_POST["mail"];
 $desc = $_POST["description"];
 
-//$aa = fopen("newfile7.txt","a");
-//$txt =" ----".$name."- ---$mail-------$desc----\n";
-//fwrite($aa,$txt);
-//fclose($aa);
+ini_set( 'display_errors', 1 );
+error_reporting( E_ALL );
+$from = ".'$mail.'";
+$to = "ashotgharakeshishyan@gmail.com";
+$subject = "$name";
+$message = "$desc";
+$headers = "From:" . $from;
+mail($to,$subject,$message, $headers);
+echo "The email message was sent.";
 
-$to = 'ashotgharakeshishyan@gmail.com';
-$subject = $name;
-$message = $desc;
-$headers = $mail;
-mail($to, $subject, $message, $headers);
+
+?>

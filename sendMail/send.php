@@ -20,6 +20,6 @@ $message = "$desc";
 $headers = "From:" . $from;
 mail($to,$subject,$message, $headers);
 echo "The email message was sent.";
-
+header('Location: ../index.html');
 
 ?>

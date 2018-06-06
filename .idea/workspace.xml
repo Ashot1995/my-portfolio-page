@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1233eab-9189-4006-8f50-a90f20b6b5e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/js/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/plugins/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-activity/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-activity/Gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-activity/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-activity/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-activity/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-activity/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-activity/src/github-activity.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-activity/src/github-activity.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/CONTRIBUTING.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/dist/github-calendar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/dist/github-calendar.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/example/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/example/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/example/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/plugins/github-calendar/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendMail/newfile7.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sendMail/send.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/plugins/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/plugins/contact.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,8 +66,8 @@
       <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/plugins/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="360">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -169,6 +145,12 @@
               <item name="new" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="new" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -212,12 +194,12 @@
       <workItem from="1528123250635" duration="4954000" />
       <workItem from="1528225958963" duration="1498000" />
       <workItem from="1528265168033" duration="16000" />
-      <workItem from="1528271564047" duration="4830000" />
+      <workItem from="1528271564047" duration="5078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22420000" />
+    <option name="totallyTimeSpent" value="22668000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
@@ -229,7 +211,7 @@
       <window_info anchor="bottom" id="Version Control" order="4" />
       <window_info anchor="bottom" id="Run" order="7" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32917318" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22248614" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.22248614" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" side_tool="true" visible="true" weight="0.049881235" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32917318" />
@@ -428,9 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/plugins/newfile7.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/sendMail/newfile7.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -441,10 +420,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/plugins/newfile7.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/plugins/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="360">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>

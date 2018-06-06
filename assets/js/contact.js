@@ -19,7 +19,7 @@
          // console.log(pattern1.test(mail))
 
          if (pattern1.test(mail) === true) {
-              alert("ok")
+              // alert("ok")
              $.ajax({
                  url: "assets/plugins/contact.php",
                  type: "GET",

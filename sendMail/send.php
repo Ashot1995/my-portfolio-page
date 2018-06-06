@@ -1,7 +1,7 @@
 <?php
-$name=$_POST['name'];
-$email= $_POST['email'];
-$content = $_POST['content'];
+$name=$_GET['name'];
+$email= $_GET['email'];
+$content = $_GET['content'];
 
 $to = 'ashotgharakeshishyan@gmail.com';
 $subject = $name;

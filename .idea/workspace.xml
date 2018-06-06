@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1233eab-9189-4006-8f50-a90f20b6b5e8" name="Default" comment="" />
+    <list default="true" id="f1233eab-9189-4006-8f50-a90f20b6b5e8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/plugins/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/plugins/contact.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +54,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/contact.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
+            <state relative-caret-position="260">
               <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/plugins/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="340">
+              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -102,10 +104,10 @@
         <option value="$PROJECT_DIR$/assets/js/script1.js" />
         <option value="$PROJECT_DIR$/sendMail/send.php" />
         <option value="$PROJECT_DIR$/sendMail/newfile7.txt" />
-        <option value="$PROJECT_DIR$/assets/plugins/contact.php" />
         <option value="$PROJECT_DIR$/assets/js/contact.js" />
         <option value="$PROJECT_DIR$/assets/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/plugins/contact.php" />
       </list>
     </option>
   </component>
@@ -192,12 +194,12 @@
       <workItem from="1528123250635" duration="4954000" />
       <workItem from="1528225958963" duration="1498000" />
       <workItem from="1528265168033" duration="16000" />
-      <workItem from="1528271564047" duration="5838000" />
+      <workItem from="1528271564047" duration="6099000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23428000" />
+    <option name="totallyTimeSpent" value="23689000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="-4" width="1309" height="772" extended-state="6" />
@@ -414,17 +416,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/plugins/contact.php">
+    <entry file="file://$PROJECT_DIR$/assets/js/contact.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="260">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/contact.js">
+    <entry file="file://$PROJECT_DIR$/assets/plugins/contact.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        <state relative-caret-position="340">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>

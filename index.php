@@ -1,38 +1,47 @@
 <!--Created by Ashot Gharakeshishyan-->
 <!DOCTYPE html>
-<!--[if IE 8]>
-<html lang="en" class="ie8"> <![endif]-->
-<!--[if IE 9]>
-<html lang="en" class="ie9"> <![endif]-->
-<!--[if !IE]><!-->
-<html lang="en"> <!--<![endif]-->
+<html lang="en">
 <head>
-
-    <title>Ashot Gharakeshishyan</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta name="viewport" content="user-scalable = yes"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="title" content="Ashot Gharakeshishyan, Ашот Каракешишян,Աշոտ Ղարաքեշիշյան">
+    <meta name="description" content="Ashot Gharakeshishyan, Ашот Каракешишян,Աշոտ Ղարաքեշիշյան">
+    <meta name="keywords" content="Ashot Gharakeshishyan, Ашот Каракешишян,Աշոտ Ղարաքեշիշյան">
+    <meta name="author" content="Ashot Gharakeshishyan, Ашот Каракешишян,Աշոտ Ղարաքեշիշյան">
+    <meta property="og:url" content="https://ashotgharakeshishyan.tk/')"/>
+    <meta property="og:title" content="Ashot Gharakeshishyan, Ашот Каракешишян,Աշոտ Ղարաքեշիշյան"/>
+    <meta property="og:description" content="Ashot Gharakeshishyan, Ашот Каракешишян,Աշոտ Ղարաքեշիշյան"/>
+    <meta property="og:image" content="assets/images/profile.png"/>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="Ashot,Gharakeshishyan,Աշոտ,Ղարաքեշիշյան,Ашот,Каракешишян,portfolio,HTML,CSS,JavaScript,PHP,NodeJS,MySql,ashotgharakeshishyan">
-    <meta name="description" content="Portfolio Ashot Gharakeshishyan">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="user" content="Ashot Gharakeshishyan, Ашот Каракешишян,Աշոտ Ղարաքեշիշյան">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="a.g.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>Ashot Gharakeshishyan</title>
     <meta name="author" content="Ashot Gharakeshishyan">
+    <meta name="description"
+          content="Portfolio Ashot Gharakeshishyan full stack web developer, GharakeshishyanAshot ashotgharakeshishyan Ashot,Gharakeshishyan,Աշոտ,Ղարաքեշիշյան,Ашот,Каракешишян,portfolio,HTML,CSS,JavaScript,PHP,NodeJS,MySql,laravel,ashotgharakeshishyan, ashot_gharakeshishyan,upwork,instagram,facebook,programmer">
+    <meta name="twitter:card" content="summary">
+    <meta name="robots" content="noindex, nofollow">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords"
+          content="Ashot,Gharakeshishyan,Աշոտ,Ղարաքեշիշյան,Ашот,Каракешишян,portfolio,HTML,CSS,JavaScript,PHP,NodeJS,MySql,laravel,ashotgharakeshishyan, ashot_gharakeshishyan,upwork,instagram,facebook,programmer">
+
     <link rel="shortcut icon" href="a.g.png">
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet'
+    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet'>
     <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/plugins/font-awesome/css/font-awesome.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
 
     <link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
-
-    <!--<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>-->
-    <!--<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>-->
-    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
-
-    <script
-            src="https://code.jquery.com/jquery-1.12.4.min.js"
-            integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
-            crossorigin="anonymous"></script>
-
 </head>
 
 <body>
@@ -43,15 +52,22 @@
              style="height: 200px ;width:200px" alt="Ashot photo"/>
         <div class="profile-content pull-left">
             <h1 class="name">Ashot Gharakeshishyan</h1>
-            <h2 class="desc">Web App Developer</h2>
+            <h2 class="desc">Full Stack Web Developer</h2>
             <ul class="social list-inline">
-                <li><a href="https://twitter.com/ashotgharakesh1"><i class="fa fa-twitter"></i></a></li>
-                <li><a href="https://plus.google.com/114320152224905901347"><i class="fa fa-google-plus"></i></a></li>
-                <li><a href="https://www.linkedin.com/in/ashot-gharakeshishyan-9502b9129/"><i
-                        class="fa fa-linkedin"></i></a></li>
                 <li><a href="https://github.com/Ashot1995"><i class="fa fa-github-alt"></i></a></li>
+
                 <li class="last-item"><a href="https://web.facebook.com/ashot.gharakeshishyan"><i
-                        class="fa fa-facebook-square"></i></a></li>
+                            class="fa fa-facebook-square"></i></a></li>
+
+                <li class="last-item"><a href="https://www.instagram.com/ashot_gharakeshishyan/"><i
+                            class="fa fa-instagram"></i></a></li>
+
+                <li><a href="https://twitter.com/ashotgharakesh1"><i class="fa fa-twitter"></i></a></li>
+
+                <li><a href="https://plus.google.com/114320152224905901347"><i class="fa fa-google-plus"></i></a></li>
+
+                <li><a href="https://www.linkedin.com/in/ashot-gharakeshishyan-9502b9129/"><i
+                            class="fa fa-linkedin"></i></a></li>
             </ul>
         </div>
         <button class="btn btn-cta-primary pull-right" id="contact"><i class="fa fa-paper-plane"></i> Contact Me
@@ -59,9 +75,7 @@
     </div>
 </header>
 
-
-
-<div  id="send"
+<div id="send"
      style="position:absolute;z-index: 15; display:none;margin-top: -4%;flex-direction: column;width: 40%;margin-left: 54%;border: 1px solid rgba(100,200,100,0.2)">
     <img src="close.png" id="close" alt="close" style="height: 20px ;width: 20px ; position: absolute ;    margin-left: 98%;
     margin-top: -2%; ">
@@ -85,11 +99,13 @@
                 <div class="section-inner">
                     <h2 class="heading">About Me</h2>
                     <div class="content">
-                        <p>Hi, My name is Ashot Gharakeshishyan. I believe my strong points are my Creativeness and
+                        <p>Hi, My name is Ashot.
+                            I believe my strong points are my Creativeness and
                             Punctuality. My #1 goal will always be to meet your needs and deadline. When working on a
                             new project, I like to speak with the client, so that I can have a clear understanding of
                             his/her needs and ...
-                            I specialize in HTML, CSS,SASS, JavaScript, Jquery, NodeJs, PHP , MySQL.</p>
+                            I specialize in HTML, CSS,SASS, Bootstrap, JavaScript, Jquery, NodeJs, PHP ,Laravel, Yii2,
+                            MySQL.</p>
 
                     </div>
                 </div>
@@ -105,8 +121,9 @@
                             <p class="summary"></p>
                             <div class="featured-image">
 
-                              <a href="https://github.com/Ashot1995/Curriculum_vitae"  target="_blank">  <img class="img-responsive project-image"
-                                                                                                src="assets/images/projects/project-featured.png" alt="project name"/></a>
+                                <a href="https://github.com/Ashot1995/Curriculum_vitae" target="_blank"> <img
+                                        class="img-responsive project-image"
+                                        src="assets/images/projects/project-featured.png" alt="project name"/></a>
 
                                 <div class="ribbon">
                                     <div class="text">New</div>
@@ -119,16 +136,118 @@
                             </div>
                             <p><a class="more-link" href="https://github.com/Ashot1995/Curriculum_vitae"
                                   target="_blank"><i
-                                    class="fa fa-external-link"></i> View code</a></p>
+                                        class="fa fa-external-link"></i> View code</a></p>
 
                         </div>
+                        <!--Cryptodata-->
+                        <hr class="divider"/>
+                        <div class="item row">
+                            <a class="col-md-4 col-sm-4 col-xs-12"
+                               href="https://github.com/Ashot1995/cryptodata"
+                               target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/cryptodata.jpeg"
+                                     alt="project name"/>
+                            </a>
+                            <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                <h3 class="title"><a
+                                        href="https://github.com/Ashot1995/cryptodata"
+                                        target="_blank">Cryptodata</a></h3>
+                                <p>Backend created in laravel </p>
+                                <p><a class="more-link" href="https://github.com/Ashot1995/cryptodata"
+                                      target="_blank"><i
+                                            class="fa fa-external-link"></i> View </a></p>
+                            </div>
+                        </div>
+
+                        <!--Virtual host-->
+                        <hr class="divider"/>
+                        <div class="item row">
+                            <a class="col-md-4 col-sm-4 col-xs-12"
+                               href="https://github.com/EducationAshot1995/cryptodata"
+                               target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/virtualHost.jpeg"
+                                     alt="project name"/>
+                            </a>
+                            <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                <h3 class="title"><a
+                                        href="https://github.com/Ashot1995/create-virtual-host-ubuntu"
+                                        target="_blank">Virtual Host</a></h3>
+                                <p>Virtual host created in shell script.This script help all create virtual host quickly
+                                    for apache server</p>
+                                <p><a class="more-link" href="https://github.com/Ashot1995/create-virtual-host-ubuntu"
+                                      target="_blank"><i
+                                            class="fa fa-external-link"></i> View </a></p>
+                            </div>
+                        </div>
+
+                        <!--Agatagir site-->
+                        <hr class="divider"/>
+                        <div class="item row">
+                            <a class="col-md-4 col-sm-4 col-xs-12"
+                               href="https://agatagir.am/"
+                               target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/agatagir.png"
+                                     alt="project name"/>
+                            </a>
+                            <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                <h3 class="title"><a
+                                        href="https://agatagir.am/"
+                                        target="_blank">Agatagir</a></h3>
+                                <p>Shopping site created in backend laravel ,frontend VueJS </p>
+                                <p><a class="more-link" href="https://agatagir.am/"
+                                      target="_blank"><i
+                                            class="fa fa-external-link"></i> View </a></p>
+                            </div>
+                        </div>
+
+                        <!--Dynamic parser-->
+                        <hr class="divider"/>
+                        <div class="item row">
+                            <a class="col-md-4 col-sm-4 col-xs-12"
+                               href="https://github.com/Ashot1995/dynamic-parse"
+                               target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/parse.png"
+                                     alt="parse"/>
+                            </a>
+                            <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                <h3 class="title"><a
+                                        href="https://github.com/Ashot1995/dynamic-parse"
+                                        target="_blank">Parser</a></h3>
+                                <p>HTML DOM parser created in php</p>
+                                <p><a class="more-link" href="https://github.com/Ashot1995/dynamic-parse"
+                                      target="_blank"><i
+                                            class="fa fa-external-link"></i> View </a></p>
+                            </div>
+                        </div>
+
+                        <!--Mekhitaryan church-->
+                        <hr class="divider"/>
+                        <div class="item row">
+                            <a class="col-md-4 col-sm-4 col-xs-12"
+                               href="http://mekhitar.am/"
+                               target="_blank">
+                                <img class="img-responsive project-image" src="assets/images/projects/mekhitar.png"
+                                     alt="project name"/>
+                            </a>
+                            <div class="desc col-md-8 col-sm-8 col-xs-12">
+                                <h3 class="title"><a
+                                        href="http://mekhitar.am/"
+                                        target="_blank">Mkhitaryan church</a></h3>
+                                <p>Site created in backend laravel ,frontend VueJS </p>
+                                <p><a class="more-link" href="http://mekhitar.am/"
+                                      target="_blank"><i
+                                            class="fa fa-external-link"></i> View </a></p>
+                            </div>
+                        </div>
+
                         <!--Laravel shopping site-->
                         <hr class="divider"/>
                         <div class="item row">
                             <a class="col-md-4 col-sm-4 col-xs-12"
                                href="https://github.com/Ashot1995/Yandex-translate"
                                target="_blank">
-                                <img class="img-responsive project-image" src="assets/images/projects/Online-Shopping-1.jpg"
+                                <img class="img-responsive project-image"
+                                     src="assets/images/projects/Online-Shopping-1.jpg"
                                      alt="project name"/>
                             </a>
                             <div class="desc col-md-8 col-sm-8 col-xs-12">
@@ -138,9 +257,10 @@
                                 <p>Shopping site created in laravel 5.7 </p>
                                 <p><a class="more-link" href="https://github.com/Ashot1995/laravel-shopping-site"
                                       target="_blank"><i
-                                        class="fa fa-external-link"></i> View code</a></p>
+                                            class="fa fa-external-link"></i> View code</a></p>
                             </div>
                         </div>
+
                         <!--Cruise-->
                         <hr class="divider"/>
                         <div class="item row">
@@ -157,7 +277,7 @@
                                 <p>PSD to HTML.
                                     Responsive Template.</p>
                                 <p><a class="more-link" href="https://github.com/Ashot1995/Cruise" target="_blank"><i
-                                        class="fa fa-external-link"></i> View code</a></p>
+                                            class="fa fa-external-link"></i> View code</a></p>
                             </div>
                         </div>
 
@@ -167,7 +287,7 @@
                             <a class="col-md-4 col-sm-4 col-xs-12"
                                href="https://github.com/Ashot1995/Yandex-translate"
                                target="_blank">
-                                <img class="img-responsive project-image" src="assets/images/projects/project-4.png"
+                                <img class="img-responsive project-image" src="assets/images/projects/yandex.png"
                                      alt="project name"/>
                             </a>
                             <div class="desc col-md-8 col-sm-8 col-xs-12">
@@ -177,7 +297,7 @@
                                 <p>Yandex translate created in languages javascript ,Jquery and Ajax </p>
                                 <p><a class="more-link" href="https://github.com/Ashot1995/Yandex-translate"
                                       target="_blank"><i
-                                        class="fa fa-external-link"></i> View code</a></p>
+                                            class="fa fa-external-link"></i> View code</a></p>
                             </div>
                         </div>
 
@@ -187,7 +307,7 @@
                             <a class="col-md-4 col-sm-4 col-xs-12"
                                href="https://github.com/Ashot1995/Chat-NodeJS"
                                target="_blank">
-                                <img class="img-responsive project-image" src="assets/images/projects/chat.png"
+                                <img class="img-responsive project-image" src="assets/images/projects/chat.jpeg"
                                      alt="project name"/>
                             </a>
                             <div class="desc col-md-8 col-sm-8 col-xs-12">
@@ -196,11 +316,9 @@
                                         target="_blank">Chat</a></h3>
                                 <p>Chat created in Nodejs Socket.IO</p>
                                 <p><a class="more-link" href="https://github.com/Ashot1995/Chat-NodeJS" target="_blank"><i
-                                        class="fa fa-external-link"></i> View code</a></p>
+                                            class="fa fa-external-link"></i> View code</a></p>
                             </div>
                         </div>
-
-
                     </div>
                 </div>
             </section>
@@ -213,14 +331,26 @@
                     <div class="content">
                         <ul class="list-unstyled">
                             <li><i class="fa fa-map-marker"></i><span class="sr-only">Location:</span>
-                                <a href="https://www.google.com/maps/dir/%D0%90%D1%80%D0%B0%D0%BF%D0%B8,+%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F/%D0%90%D1%80%D0%B0%D0%BF%D0%B8/@40.7832734,43.7343109,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4041fc22f42fa4eb:0xf6b1b36ea1d0f734!2m2!1d43.8045228!2d40.7832947!1m5!1m1!1s0x4041fc22f42fa4eb:0xf6b1b36ea1d0f734!2m2!1d43.8045228!2d40.7832947">Gyumri,Armenia</a>
+                                <a
+                                    href="https://www.google.com/maps/dir/%D0%90%D1%80%D0%B0%D0%BF%D0%B8,+%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F/%D0%90%D1%80%D0%B0%D0%BF%D0%B8/@40.7832734,43.7343109,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x4041fc22f42fa4eb:0xf6b1b36ea1d0f734!2m2!1d43.8045228!2d40.7832947!1m5!1m1!1s0x4041fc22f42fa4eb:0xf6b1b36ea1d0f734!2m2!1d43.8045228!2d40.7832947">Gyumri,Armenia</a>
                             </li>
-                            <li><i class="fa fa-phone"></i><span class="sr-only">Phone number:</span>+(374)(98) 01 62 77
+                            <li><i class="fa fa-phone"></i><span class="sr-only">Phone number:</span><a href="#">+(374)(98)
+                                    01 62 77</a>
                             </li>
+                            
+                            <li><i class="fa fa-telegram"></i></i><span class="sr-only">Telegram:</span><a href="#">@gharakeshishyan</a>
+                            </li>
+
+                            <li><i class="fa fa-whatsapp"></i><span class="sr-only">WhatsApp:</span><a href="#">+(374)(98)
+                                    01 62 77</a>
+                            </li>
+                            <li><i class="fa fa-skype"></i><span class="sr-only">Skype:</span><a href="#">ashotgharakeshishyan</a>
+                            </li>
+
                             <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a
                                     href="https://mail.google.com/mail/u/0/#inbox?compose=new">ashotgharakeshishyan@gmail.com</a>
                             </li>
-                            <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a href="#">http://ashotgharakeshishyan.ga</a>
+                            <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a href="#">https://ashotgharakeshishyan.tk</a>
                             </li>
                         </ul>
                     </div>
@@ -245,13 +375,20 @@
                                     </div>
                                 </div>
                             </div>
-                        <div class="item">
-                            <h3 class="level-title">Laravel<span class="level-label">85%</span></h3>
-                            <div class="level-bar">
-                                <div class="level-bar-inner" data-level="85%">
+                            <div class="item">
+                                <h3 class="level-title">Laravel<span class="level-label">90%</span></h3>
+                                <div class="level-bar">
+                                    <div class="level-bar-inner" data-level="90%">
+                                    </div>
                                 </div>
                             </div>
-                        </div>
+                            <div class="item">
+                                <h3 class="level-title">Yii2<span class="level-label">80%</span></h3>
+                                <div class="level-bar">
+                                    <div class="level-bar-inner" data-level="80%">
+                                    </div>
+                                </div>
+                            </div>
                             <div class="item">
                                 <h3 class="level-title">Mysql<span class="level-label">85%</span></h3>
                                 <div class="level-bar">
@@ -259,20 +396,14 @@
                                     </div>
                                 </div>
                             </div>
+
                             <div class="item">
-                                <h3 class="level-title">Javascript &amp; jQuery<span class="level-label">90%</span></h3>
+                                <h3 class="level-title">Vue Js<span class="level-label">70%</span></h3>
                                 <div class="level-bar">
-                                    <div class="level-bar-inner" data-level="90%">
+                                    <div class="level-bar-inner" data-level="70%">
                                     </div>
                                 </div>
                             </div>
-                        <div class="item">
-                            <h3 class="level-title">Vue Js<span class="level-label">30%</span></h3>
-                            <div class="level-bar">
-                                <div class="level-bar-inner" data-level="30%">
-                                </div>
-                            </div>
-                        </div>
                             <div class="item">
                                 <h3 class="level-title">NodeJS<span class="level-label">20%</span></h3>
                                 <div class="level-bar">
@@ -289,7 +420,13 @@
                                 </div>
                             </div>
 
-
+                            <div class="item">
+                                <h3 class="level-title">Javascript &amp; jQuery<span class="level-label">90%</span></h3>
+                                <div class="level-bar">
+                                    <div class="level-bar-inner" data-level="90%">
+                                    </div>
+                                </div>
+                            </div>
                             <div class="item">
                                 <h3 class="level-title">Git<span class="level-label">88%</span></h3>
                                 <div class="level-bar">
@@ -306,6 +443,31 @@
                             </div>
 
                         </div>
+                    </div>
+                </div>
+            </aside>
+
+            <aside class="education aside section">
+                <div class="section-inner">
+                    <h2 class="heading"> Employment history </h2>
+                    <div class="content">
+                        <div class="item">
+                            <h3 class="title"><i class="fa fa-briefcase"></i><a href="https://lifebeget.ru/"
+                                                                                     target="_blank"> Lifebeget</a></h3>
+                            <h4 class="university">Full stack web developer<span class="year">(2019-Present)</span></h4>
+                        </div>
+                        <div class="item">
+                            <h3 class="title"><i class="fa fa-briefcase"></i> <a href="https://www.esterox.org/"
+                                                                                      target="_blank"> Esterox</a></h3>
+                            <h4 class="university">Full stack web developer<span class="year">(2018-2019)</span></h4>
+                        </div>
+                        <div class="item">
+                            <h3 class="title"><i class="fa fa-briefcase"></i><a href="http://eridatech.com/erida/"
+                                                                                     target="_blank"> Erida Technologies
+                            </h3>
+                            <h4 class="university">Web Developer<span class="year">(2018)</span></h4>
+                        </div>
+
                     </div>
                 </div>
             </aside>
@@ -336,13 +498,15 @@
                             <li class="item">
                                 <span class="title"><strong>Armenian:</strong></span>
                                 <span class="level"> <br class="visible-xs"/><i class="fa fa-star"></i> <i
-                                        class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i
+                                        class="fa fa-star"></i> <i class="fa fa-star"></i> <i
+                                        class="fa fa-star"></i> <i
                                         class="fa fa-star"></i></span>
                             </li>
                             <li class="item">
                                 <span class="title"><strong>Russian:</strong></span>
                                 <span class="level"> <br class="visible-sm visible-xs"/><i class="fa fa-star"></i> <i
-                                        class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i><i
+                                        class="fa fa-star"></i> <i class="fa fa-star"></i> <i
+                                        class="fa fa-star"></i><i
                                         class="fa fa-star-half"></i></span>
                             </li>
                             <li class="item">
@@ -361,14 +525,14 @@
                     <div class="content">
                         <ul class="list-unstyled">
                             <li><i class="fa fa-headphones"></i> <a href="https://www.youtube.com/watch?v=1KbauuM9EhY">River
-                                Flows In You</a></li>
+                                    Flows In You</a></li>
                             <li><i class="fa fa-headphones"></i> <a href="https://www.youtube.com/watch?v=AeA3AL4jcIQ">Best
-                                music
-                            </a></li>
+                                    music
+                                </a></li>
                             <li><i class="fa fa-headphones"></i> <a href="https://www.youtube.com/watch?v=YcTCIMKeiNQ">Bass
-                                music</a></li>
+                                    music</a></li>
                             <li><i class="fa fa-headphones"></i> <a href="https://www.youtube.com/watch?v=xdmktWgZPn8">Ash
-                                - Mosaïque</a></li>
+                                    - Mosaïque</a></li>
                         </ul>
                     </div>
                 </div>
@@ -383,12 +547,15 @@
 <footer class="footer">
     <div class="container text-center">
 
-        <small class="copyright"><img src="a.g.png" style="height: 20px;width: 20px" alt="A.G"></i> by <a
-                href="http://ashotgharakeshishyan.ga" target="_blank">Ashot Gharakeshishyan</a></small>
+        <strong class="copyright"><img src="a.g.png" style="height: 20px;width: 20px" alt="A.G"></i> by <a
+                href="https://ashotgharakeshishyan.tk" target="_blank">Ashot Gharakeshishyan</a></strong>
     </div>
 </footer>
 
-
+<script
+    src="https://code.jquery.com/jquery-1.12.4.min.js"
+    integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+    crossorigin="anonymous"></script>
 <script type="text/javascript" src="assets/plugins/jquery-1.11.3.min.js"></script>
 <script type="text/javascript" src="assets/plugins/bootstrap/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="assets/plugins/jquery-rss/dist/jquery.rss.min.js"></script>
@@ -397,7 +564,7 @@
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.10.1/fetch.min.js"></script>
 <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
 <script type="text/javascript" src="assets/js/main.js"></script>
-<script type="text/javascript" src ="assets/js/contact.js"></script>
+<script type="text/javascript" src="assets/js/contact.js"></script>
 
 </body>
 </html>

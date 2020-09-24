@@ -1,7 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: ashot
+ * User: Ashot Gharakeshishyan
  * Date: 6/6/18
  * Time: 12:27 PM
  */
@@ -20,4 +20,4 @@ $subject = $name;
 $message = $content;
 $headers = $email;
 mail($to, $subject, $message, $headers);
-header("Location: ../");
+header("Location: ../../");

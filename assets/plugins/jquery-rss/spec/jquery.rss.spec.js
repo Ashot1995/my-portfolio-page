@@ -12,7 +12,7 @@ describe('jquery.rss', function () {
 
     this.element = $('<div>').appendTo($('body'));
     this.timeout = 10000;
-    this.feedUrl = 'http://xml-rss.de/xml/site-atom.xml';
+    this.feedUrl = 'https://xml-rss.de/xml/site-atom.xml';
     this.fakeGetJSON = function (content) {
       self.originalGetJSON = $.getJSON;
 

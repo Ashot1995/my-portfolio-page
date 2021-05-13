@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1233eab-9189-4006-8f50-a90f20b6b5e8" name="Default" comment="" />
+    <list default="true" id="f1233eab-9189-4006-8f50-a90f20b6b5e8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/plugins/jquery-rss/src/jquery.rss.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/plugins/jquery-rss/src/jquery.rss.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
